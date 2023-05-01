@@ -1,0 +1,8 @@
+.idea
+.idea/*
+lisp_like/__pycache__
+lisp_like/__pycache__/*
+skip_list/__pycache__
+skip_list/__pycache__/*
+k-d_tree/__pycache__
+k-d_tree/__pycache__/*
